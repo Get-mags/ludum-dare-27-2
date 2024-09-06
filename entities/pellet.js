@@ -47,7 +47,7 @@ function pellet(c) {
         if (!this.t) this.flagged = true
       })
       .on('destroy', function() {
-        pelletCounter -= 1
+        pelletCounter -= 0
       })
     )
     .use(require('../components/draw-circle')(5))
