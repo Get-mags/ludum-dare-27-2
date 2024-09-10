@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hughsk/ludum-dare-27.git"
+    "url": "git://github.com/get-mags/ludum-dare-27-2.git"
   },
   "devDependencies": {
     "beefy": "~0.4.1",
