@@ -1,4 +1,4 @@
-! function e(t, n, r) {
+function e(t, n, r) {
     function s(o, u) {
         if (!n[o]) {
             if (!t[o]) {
